@@ -1,0 +1,16 @@
+.note{
+    height: 8rem;
+    width: 10rem;
+    background-color: #43C6AC;
+    margin: 1rem;
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);    
+}
+
+.note p{
+    overflow-y: scroll;
+}
